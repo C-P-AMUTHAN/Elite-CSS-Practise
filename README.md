@@ -4,29 +4,6 @@ This repository demonstrates hands-on practice of CSS fundamentals, layouts, sty
 
 ---
 
-## 📂 Project Structure
-
-Elite-CSS-Practise/
-├── basic-styles/ # Fonts, colors, typography, backgrounds
-│ ├── typography.html
-│ └── colors.html
-├── layout-demo/ # Flexbox and CSS Grid examples
-│ ├── flexbox.html
-│ └── grid.html
-├── nav-bar/ # Responsive navigation bar demo
-│ └── navbar.html
-├── cards-gallery/ # Responsive card designs
-│ └── cards.html
-├── animations/ # CSS animations and transitions
-│ └── animations.html
-├── forms-styling/ # Customized form input styling
-│ └── forms.html
-└── assets/
-├── css/ # CSS files for all demos
-└── images/ # Supporting images/icons
-
----
-
 ## ✏️ What You’ll Learn
 
 - **Typography & Colors**: Font styles, size, and color theming  
